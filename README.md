@@ -79,7 +79,7 @@ _**Performance Testing:**_<br> Comprehensive tests indicated a 40% improvement i
 ### Team Collaboration and Innovation:
 
 > _**Interdisciplinary Collaboration:**_<br> The collaboration of experts from different fields resulted in a 30% acceleration in project completion, fostering technological and knowledge synergy.<br>
-_**Innovative Solutions:**_ The team’s innovative approaches led to the development of two patented technologies, marking a significant milestone in the project’s innovation journey.<br>
+_**Innovative Solutions:**_ <br>The team’s innovative approaches led to the development of two patented technologies, marking a significant milestone in the project’s innovation journey.<br>
 
 
 ### Practicality and Future Prospects:
