@@ -64,25 +64,25 @@ _**User Authorization:**_ <br>
 File Integrity: Each transferred file is validated through a distinct encryption value. This approach reduced file corruption and data leakage incidents by 80%, ensuring data integrity during transmission.<br>
 
 
-_**Augmented Network Flexibility and Adaptability:**_ <br>
+### Augmented Network Flexibility and Adaptability:
 
 > Data Packet Forwarding: With SDN technology, the system improved data packet forwarding efficiency by 50%. It adapts data transmission pathways based on varying requirements, enhancing network responsiveness.<br>
 Virtual Network Topology: Utilizing Mininet, the project achieved a 60% improvement in network adaptability, offering a flexible environment for testing diverse network solutions.<br>
 
 
-_**Optimized Performance and Evaluation:**_ <br>
+### Optimized Performance and Evaluation:
 
 > Network Performance Monitoring: Using Wireshark, the system enhanced the accuracy of network performance data by 70%. It provides real-time insights, facilitating informed decision-making for performance optimization.<br>
 Performance Testing: Comprehensive tests indicated a 40% improvement in system efficiency and stability under various file transfer protocols, showcasing the system’s robust performance.<br>
 
 
-_**Team Collaboration and Innovation:**_ <br>
+### Team Collaboration and Innovation:
 
 > Interdisciplinary Collaboration: The collaboration of experts from different fields resulted in a 30% acceleration in project completion, fostering technological and knowledge synergy.<br>
 Innovative Solutions: The team’s innovative approaches led to the development of two patented technologies, marking a significant milestone in the project’s innovation journey.<br>
 
 
-_**Practicality and Future Prospects:**_ <br>
+### Practicality and Future Prospects:
 
 > Broad Application: The system is scalable to accommodate a 200% increase in user traffic, showcasing its adaptability for diverse practical scenarios and demands.<br>
 Future Development: The project’s success has attracted a $2M investment for future development, indicating its promising prospects and application potential.<br>
