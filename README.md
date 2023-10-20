@@ -19,7 +19,7 @@
 
 ### 1. User Authorization and File Encryption
 
-> MD5 Encryption
+> MD5 Encryption: <br>
 The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism.
 
 > Token Feature
