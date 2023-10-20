@@ -5,3 +5,18 @@
 2. [Implementation details](#Implementationdetails)
 3. [Results and contributions](#Resultsandcontributions)
 4. [Conclusion](#conclusion)
+
+## Technology Stacks
+Content for development apparatus...
+
+## Implementation details
+Content for requirement discovery...
+
+## Results and contributions
+Content for product iteration...
+
+## Conclusion
+Content for conclusion...
+
+
+
