@@ -17,21 +17,44 @@
 
 ## Implementation details
 
-### User Authorization and File Encryption
+### 1. User Authorization and File Encryption
 
-> The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism. A “token” feature is integrated to enhance the accuracy of user authorization. The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
+#### MD5 Encryption
+The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism.
 
-### Software Defined Networking (SDN)
+#### Token Feature
+A “token” feature is integrated to enhance the accuracy of user authorization.
 
-> The project utilizes Mininet to construct virtual network topologies, managed via the Ryu SDN framework. This approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
+#### File Integrity and Authenticity
+The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
 
-### File Transfer Protocol
+### 2. Software Defined Networking (SDN)
 
-> The client-side application is designed to save files upon receiving the correct upload schedule, preparing them for transmission. The initiation time of the upload is recorded using Python’s “perf counter()” function. Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
+#### Mininet
+The project utilizes Mininet to construct virtual network topologies.
 
-### Network Performance Evaluation
+#### Ryu SDN Framework
+Managed via the Ryu SDN framework, this approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
 
-> Wireshark is employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency. Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
+### 3. File Transfer Protocol
+
+#### Client-side Application
+Designed to save files upon receiving the correct upload schedule, preparing them for transmission.
+
+#### Upload Initiation Time
+The initiation time of the upload is recorded using Python’s “perf counter()” function.
+
+#### Information Packaging
+Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
+
+## 4. Network Performance Evaluation
+
+#### Wireshark
+Employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency.
+
+#### Performance Tests
+Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
+
 
 
 ## Results and contributions
