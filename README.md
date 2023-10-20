@@ -61,7 +61,7 @@ _**Performance Tests:**_ <br>
 
 _**User Authorization:**_ <br>
 > Utilizing MD5 encryption and “token” verification, the system reduced unauthorized access by 75%. It ensures that only authorized users can execute file transfers, enhancing data security.<br>
-_**File Integrity: **_ <br>Each transferred file is validated through a distinct encryption value. This approach reduced file corruption and data leakage incidents by 80%, ensuring data integrity during transmission.<br>
+_**File Integrity:**_ <br>Each transferred file is validated through a distinct encryption value. This approach reduced file corruption and data leakage incidents by 80%, ensuring data integrity during transmission.<br>
 
 
 ### Augmented Network Flexibility and Adaptability:
