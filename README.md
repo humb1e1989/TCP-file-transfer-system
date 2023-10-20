@@ -10,8 +10,10 @@
 ## Technology Stacks
 
 
+| Language | Protocols | Encryption Methond | Networking Simulators| Networking Controller | Network Architecture | Analysis Tool |
 | ---- | --- | ----- | ------------- | ------- | ------- | -------- |
-| Python | TCP/IP | MD5 Encryption | Mininet | Ryu SDN | Wireshark |
+| Python | TCP/IP | MD5 Encryption | Mininet | Ryu | SDN | Wireshark |
+
 
 
 
