@@ -19,40 +19,40 @@
 
 ### 1. User Authorization and File Encryption
 
-#### MD5 Encryption
+> MD5 Encryption
 The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism.
 
-#### Token Feature
+> Token Feature
 A “token” feature is integrated to enhance the accuracy of user authorization.
 
-#### File Integrity and Authenticity
+> File Integrity and Authenticity
 The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
 
 ### 2. Software Defined Networking (SDN)
 
-#### Mininet
+> Mininet
 The project utilizes Mininet to construct virtual network topologies.
 
-#### Ryu SDN Framework
+> Ryu SDN Framework
 Managed via the Ryu SDN framework, this approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
 
 ### 3. File Transfer Protocol
 
-#### Client-side Application
+> Client-side Application
 Designed to save files upon receiving the correct upload schedule, preparing them for transmission.
 
-#### Upload Initiation Time
+> Upload Initiation Time
 The initiation time of the upload is recorded using Python’s “perf counter()” function.
 
-#### Information Packaging
+> Information Packaging
 Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
 
 ## 4. Network Performance Evaluation
 
-#### Wireshark
+> Wireshark
 Employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency.
 
-#### Performance Tests
+> Performance Tests
 Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
 
 
