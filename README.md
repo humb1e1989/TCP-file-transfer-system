@@ -25,34 +25,34 @@
 **_Token Feature_**
 > A “token” feature is integrated to enhance the accuracy of user authorization.
 
-**_ File Integrity and Authenticity_** <br>
+**_File Integrity and Authenticity_** <br>
 >The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
 
 ### 2. Software Defined Networking (SDN)
 
-_**Mininet**_
+_**Mininet**_ <br>
 The project utilizes Mininet to construct virtual network topologies.
 
-_**Ryu SDN Framework**_
+_**Ryu SDN Framework**_ <br>
 Managed via the Ryu SDN framework, this approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
 
 ### 3. File Transfer Protocol
 
-_**Client-side Application**_
+_**Client-side Application**_ <br>
 Designed to save files upon receiving the correct upload schedule, preparing them for transmission.
 
-_**Upload Initiation Time**_
+_**Upload Initiation Time**_ <br>
 The initiation time of the upload is recorded using Python’s “perf counter()” function.
 
-_**Information Packaging**_
+_**Information Packaging**_ <br>
 Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
 
 ## 4. Network Performance Evaluation
 
-_**Wireshark**_
+_**Wireshark**_ <br>
 Employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency.
 
-_**Performance Tests**_
+_**Performance Tests**_ <br>
 Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
 
 
