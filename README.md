@@ -88,7 +88,15 @@ Innovative Solutions: The team’s innovative approaches led to the development 
 Future Development: The project’s success has attracted a $2M investment for future development, indicating its promising prospects and application potential.<br>
 
 ## Conclusion
-Content for conclusion...
+The culmination of this innovative project underscores the successful development and implementation of an efficient and secure TCP file transfer system. By integrating MD5 encryption, Software Defined Networking (SDN) technology, and the Wireshark tool, we have not only fortified the security and integrity of file transfers but also enhanced network performance and adaptability.
+
+In the realm of user authorization and file encryption, the incorporation of MD5 and “token” verification mechanisms has markedly bolstered the precision and security of user authorization. Each file transferred is authenticated through a unique encryption value, ensuring its integrity and accuracy throughout the transmission process. This advancement significantly mitigates the risks associated with data leakage and file corruption, offering users a reliable file transfer environment.
+
+The introduction of SDN has facilitated the direct forwarding and redirection of data packets, amplifying the network’s flexibility and adaptability. The utilization of Mininet for creating and managing virtual network topologies, coupled with the Ryu SDN framework for network management, provides a flexible and controllable solution tailored to diverse network requirements and conditions.
+
+With the Wireshark tool, we have achieved real-time monitoring of network performance, encompassing key metrics such as network latency and packet loss rate. A series of comprehensive performance tests have validated the system’s efficiency and stability across various file transfer protocols, offering invaluable experimental data and insights for future optimizations and enhancements.
+
+In conclusion, this file transfer system exemplifies not only exceptional security performance but also demonstrates remarkable network flexibility and adaptability. Its broad application prospects and future development potential are attributed to its innovative design, exquisite technical implementation, and comprehensive performance optimization. We are confident that this system will provide robust technical support and practical value for larger scale and more complex network systems in the future.
 
 
 
