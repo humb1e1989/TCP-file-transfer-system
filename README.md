@@ -9,9 +9,9 @@
 
 ## Technology Stacks
 
-| 序号 | 1 | 2 | 3 | 4 | 5 | 6 |
+
 | ---- | --- | ----- | ------------- | ------- | ------- | -------- |
-| 元素名称 | Python | TCP/IP | MD5 Encryption | Mininet | Ryu SDN | Wireshark |
+| Python | TCP/IP | MD5 Encryption | Mininet | Ryu SDN | Wireshark |
 
 
 
