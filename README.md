@@ -19,19 +19,19 @@
 
 ### User Authorization and File Encryption
 
-The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism. A “token” feature is integrated to enhance the accuracy of user authorization. The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
+> The system employs MD5 encryption algorithms to secure user account passwords, establishing a robust authorization mechanism. A “token” feature is integrated to enhance the accuracy of user authorization. The integrity and authenticity of the transferred files are confirmed through a unique encryption value, ensuring secure and reliable file transfers.
 
 ### Software Defined Networking (SDN)
 
-The project utilizes Mininet to construct virtual network topologies, managed via the Ryu SDN framework. This approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
+> The project utilizes Mininet to construct virtual network topologies, managed via the Ryu SDN framework. This approach facilitates the direct forwarding and redirection of data packets, offering flexibility and adaptability in data transmission pathways.
 
 ### File Transfer Protocol
 
-The client-side application is designed to save files upon receiving the correct upload schedule, preparing them for transmission. The initiation time of the upload is recorded using Python’s “perf counter()” function. Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
+> The client-side application is designed to save files upon receiving the correct upload schedule, preparing them for transmission. The initiation time of the upload is recorded using Python’s “perf counter()” function. Essential information, including “key,” “block-index,” “token,” and “bin-data,” is packaged and sent to the server to execute the file transfer.
 
 ### Network Performance Evaluation
 
-Wireshark is employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency. Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
+> Wireshark is employed to assess network performance under various file transfer protocols, providing insights into network latency and overall efficiency. Comprehensive performance tests validate the system’s efficiency and stability, confirming its readiness for real-world application.
 
 
 ## Results and contributions
