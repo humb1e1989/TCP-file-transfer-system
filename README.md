@@ -8,7 +8,7 @@
 4. [Conclusion](#conclusion)
 
 ## Technology Stacks
-Content for development apparatus...
+Python, TCP/IP, MD5 Encryption, Mininet, Ryu SDN, Wireshark
 
 ## Implementation details
 Content for requirement discovery...
